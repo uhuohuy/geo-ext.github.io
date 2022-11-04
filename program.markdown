@@ -7,9 +7,9 @@ Beatrice Alex, Edinburgh University
 
 Mariona Coll Ardanuy, The Alan Turing Institute
 
-          Andrea Ballatore, King’s College London
+Andrea Ballatore, King’s College London
 
-          Tao Cheng, University College London
+Tao Cheng, University College London
 
           Hongchao Fan, Norwegian University of Science and Technology
 
@@ -38,3 +38,6 @@ Mariona Coll Ardanuy, The Alan Turing Institute
           Qinjun Qiu, China University of Geosciences (Wuhan)
 
           Stephan Winter, University of Melbourne
+
+
+

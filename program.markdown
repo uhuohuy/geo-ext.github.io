@@ -7,36 +7,36 @@ nav_order: 7
 
 * <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 
-* <strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
+* <Strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
 
-* Andrea Ballatore, King’s College London, UK
+* <Strong>Andrea Ballatore</Strong>, King’s College London, UK
 
-* Tao Cheng, University College London, UK
+* <Strong>Tao Cheng</Strong>, University College London, UK
 
-* Hongchao Fan, Norwegian University of Science and Technology, Norway
+* <Strong>Hongchao Fan</Strong>, Norwegian University of Science and Technology, Norway
 
-* Matthias Hagen, FSU Jena, Germany
+* <Strong>Matthias Hagen</Strong>, FSU Jena, Germany
           
-* Christopher B. Jones, Cardiff University, UK
+* <Strong>Christopher B. Jones</Strong>, Cardiff University, UK
 
-* Nicolás José Fernández Martínez, Universidad Católica San Antonio de Murcia, Spain
+* <Strong>Nicolás José Fernández Martínez</Strong>, Universidad Católica San Antonio de Murcia, Spain
 
-* Bruno Martins, University of Lisbon, Portugal
+* <Strong>Bruno Martins</Strong>, University of Lisbon, Portugal
 
-* Katherine McDonough, The Alan Turing Institute, UK
+* <Strong>Katherine McDonough</Strong>, The Alan Turing Institute, UK
 
-* Ludovic Moncla, INSA Lyon, France
+* <Strong>Ludovic Moncla</Strong>, INSA Lyon, France
 
-* Ross Purves, University of Zurich, Switzerland
+* <Strong>Ross Purves</Strong>, University of Zurich, Switzerland
 
-* Yeran Sun, University of Lincoln, UK
+* <Strong>Yeran Sun</Strong>, University of Lincoln, UK
 
-* Thora Tenbrink, Bangor University, UK
+* <Strong>Thora Tenbrink</Strong>, Bangor University, UK
 
-* Zhiyong Zhou, University of Zurich, Switzerland
+* <Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
 
-* Grant McKenzie, McGill University, Canada
+* <Strong>Grant McKenzie</Strong>, McGill University, Canada
 
-* Qinjun Qiu, China University of Geosciences (Wuhan), China
+* <Strong>Qinjun Qiu</Strong>, China University of Geosciences (Wuhan), China
 
-* Stephan Winter, University of Melbourne, Australia
+* <Strong>Stephan Winter</Strong>, University of Melbourne, Australia

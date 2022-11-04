@@ -10,7 +10,7 @@ nav_order: 1
 
 # First International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-Workshop to be held as part of the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/)  
+## Workshop to be held as part of the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/)  
 
 A large volume of unstructured texts, containing valuable geographic information, is available online. This information – provided implicitly or explicitly – is useful not only for scientific studies (e.g., spatial humanities) but also for many practical applications (e.g., disater management). Although large progress has been achieved in geographic information extraction from texts, there are still unsolved challenges and issues, ranging from methods, systems, and data, to applications and privacy. In this workshop, we aim to foster the discussion and exchange on recent advances in geographic information extraction from unstructured texts. Our goal is to establish a common, longterm forum to consolidate multi-disciplinary efforts addressing both, research and practitioners in Europe and beyond.
 

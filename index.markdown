@@ -21,6 +21,6 @@ A large volume of unstructured texts, containing valuable geographic information
 
 <p align="left">
 <a>
- <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="32" height="32" ></a>
+ <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="100"></a>
 </p>
 

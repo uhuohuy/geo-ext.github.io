@@ -2,6 +2,7 @@
 layout: page
 title: Keynote
 permalink: /keynote/
+nav_order: 3
 ---
 
 Prof. Dr. [Ross Purves](https://www.geo.uzh.ch/~rsp/)

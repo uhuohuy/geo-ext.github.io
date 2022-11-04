@@ -14,8 +14,8 @@ nav_order: 4
 
 <strong>Jens Kersten</strong>, German Aerospace Center, Germany, Jens.Kersten@dlr.de
 
-<strong>Kristin Stock</strong>, Massey University, New Zealand, K.Stock@massey.ac.nz
+<strong>Kristin Stock</strong>, Massey University, New Zealand, 
 
 #Contact
-For general enquiries on the workshop, please send an email to xuke.hu@dlr.de, yhu42@buffalo.edu, Bernd.Resch@plus.ac.at, Jens.Kersten@dlr.de, and 
+For general enquiries on the workshop, please send an email to xuke.hu@dlr.de, yhu42@buffalo.edu, Bernd.Resch@plus.ac.at, K.Stock@massey.ac.nz, or Jens.Kersten@dlr.de 
 

@@ -5,9 +5,9 @@ permalink: /program/
 nav_order: 7
 ---
 
-* Beatrice Alex, Edinburgh University, UK
+* <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 
-* Mariona Coll Ardanuy, The Alan Turing Institute, UK
+* <strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
 
 * Andrea Ballatore, King’s College London, UK
 

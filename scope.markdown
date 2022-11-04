@@ -5,7 +5,7 @@ permalink: /aims/
 nav_order: 4
 ---
 
-The workshop has an interest in different aspects of of geographic information extraction from texts. Our general topics of interest are related, but not limited, to the following:
+The workshop's general topics of interest are related, but not limited, to the following:
  
 * Document geocoding
 

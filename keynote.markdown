@@ -7,7 +7,7 @@ nav_order: 3
 
 <p align="center">
 <a href="url">
- <img src="figure/119.png"  ></a>
+ <img src="figure/119.jpg"  ></a>
 </p>
 
 Prof. Dr. [Ross Purves](https://www.geo.uzh.ch/~rsp/)

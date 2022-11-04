@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission
+title: Submission and Attending
 permalink: /submission/
 ---
 

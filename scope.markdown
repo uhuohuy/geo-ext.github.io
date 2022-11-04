@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Scope
-permalink: /scope/
+title: Aims, Scope and Topics
+permalink: /aims/
 ---
 
 Vast and ever-increasing amounts of semi- and unstructured text data, like social media posts, website texts, historical archives, 
@@ -17,3 +17,4 @@ there are still many unsolved challenges and issues, ranging from methods, syste
 In the first GeoExT workshop, we aim to foster the discussion and exchange on recent advances in all aspects of geographic information extraction 
 from texts, such as the methods, datasets, and systems for geolocating documents and recognizing and resolving toponyms and location descriptions. 
 Our goal is to establish a common and long-term forum to consolidate multi-disciplinary efforts from both researchers and practitioners in Europe and beyond.
+

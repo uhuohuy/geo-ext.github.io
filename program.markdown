@@ -3,39 +3,54 @@ layout: page
 title: Program
 permalink: /program/
 ---
+ Markup : * Beatrice Alex, Edinburgh University
 
-Beatrice Alex, Edinburgh University
+          * Mariona Coll Ardanuy, The Alan Turing Institute
 
-Mariona Coll Ardanuy, The Alan Turing Institute
 
-Andrea Ballatore, King’s College London
+          * Andrea Ballatore, King’s College London
 
-Tao Cheng, University College London
 
-Hongchao Fan, Norwegian University of Science and Technology
+          * Tao Cheng, University College London
 
-Matthias Hagen, FSU Jena
 
-Christopher B. Jones, Cardiff University
+          * Hongchao Fan, Norwegian University of Science and Technology
 
-Nicolás José Fernández Martínez, Universidad Católica San Antonio de Murcia
 
-Bruno Martins, University of Lisbon
+          * Matthias Hagen, FSU Jena
 
-Katherine McDonough, The Alan Turing Institute
 
-Ludovic Moncla, INSA Lyon
+          * Christopher B. Jones, Cardiff University
 
-Ross Purves, University of Zurich
 
-Prof. Yeran Sun, University of Lincoln
+          * Nicolás José Fernández Martínez, Universidad Católica San Antonio de Murcia
 
-Thora Tenbrink, Bangor University
 
-Zhiyong Zhou, University of Zurich
+          * Bruno Martins, University of Lisbon
 
-Prof. Grant McKenzie, McGill University
 
-Qinjun Qiu, China University of Geosciences (Wuhan)
+          * Katherine McDonough, The Alan Turing Institute
 
-Stephan Winter, University of Melbourne
+
+          * Ludovic Moncla, INSA Lyon
+
+
+          * Ross Purves, University of Zurich
+
+
+          * Prof. Yeran Sun, University of Lincoln
+
+
+          * Thora Tenbrink, Bangor University
+
+
+          * Zhiyong Zhou, University of Zurich
+
+
+          * Prof. Grant McKenzie, McGill University
+
+
+          * Qinjun Qiu, China University of Geosciences (Wuhan)
+
+
+          * Stephan Winter, University of Melbourne

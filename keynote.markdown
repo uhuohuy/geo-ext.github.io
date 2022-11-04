@@ -9,7 +9,6 @@ nav_order: 3
 <a>
  <img src="figure/119.jpg"  ></a>
 </p>
-<p align="center">
 
  <p align="center">
 <a href="https://www.geo.uzh.ch/~rsp/">

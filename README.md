@@ -1,7 +1,7 @@
 # geo-ext.github.io
 Webpage for GeoExT Workshops
 
-# Dependencies
+# Setup
 
 Information on how to set up a GitHub Page with Jekyll can be found [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 To set up this page, [Jekyll](https://jekyllrb.com/) needs to be installed. A detailed description of how to set up the local environment can be found [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#prerequisites).

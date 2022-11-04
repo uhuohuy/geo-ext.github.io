@@ -19,8 +19,8 @@ A large volume of unstructured texts, containing valuable geographic information
 <Strong> The workshop is supported by [Global mapping for SDGs](https://www2.isprs.org/commissions/comm4/icwg-4-3/) Working Group of ISPRS Technical Commission IV/III. </Strong>
 
 
-<p align="left">
+<p align="center">
 <a>
- <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="100"></a>
+ <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120"></a>
 </p>
 

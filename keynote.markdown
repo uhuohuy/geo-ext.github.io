@@ -5,6 +5,11 @@ permalink: /keynote/
 nav_order: 3
 ---
 
+<p align="center">
+<a href="url">
+ <img src="figure/19.png"  ></a>
+</p>
+
 Prof. Dr. [Ross Purves](https://www.geo.uzh.ch/~rsp/)
 
 University of Zurich (Switzerland)

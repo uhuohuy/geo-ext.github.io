@@ -11,7 +11,7 @@ nav_order: 3
 </p>
 
  <p align="center">
-<a href="https://www.geo.uzh.ch/~rsp/">
+<a href="https://www.geo.uzh.ch/~rs/">
  Prof. Dr. Ross Purves </a>
 </p>
   

@@ -6,13 +6,13 @@ nav_order: 3
 ---
 
 <p align="center">
-<a href="url">
+<a>
  <img src="figure/119.jpg"  ></a>
 </p>
 <p align="center">
 
  <p align="center">
-<a href="[url](https://www.geo.uzh.ch/~rsp/)">
+<a href="https://www.geo.uzh.ch/~rsp/">
  Prof.Dr.Ross Purves
 </p>
 <p align="center">

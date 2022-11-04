@@ -16,8 +16,7 @@ nav_order: 3
 </p>
   
  <p align="center">
-<a>
-University of Zurich (Switzerland) </a>
+University of Zurich (Switzerland) 
 </p>
 
  

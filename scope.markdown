@@ -35,4 +35,4 @@ The workshop's general topics of interest are related, but not limited, to the f
 
 * Location privacy protection for online users
 
-* Standards or unified interface for system development
+* Standards or unified interfaces for system development

@@ -5,12 +5,12 @@ permalink: /organizaton/
 nav_order: 4
 ---
 
-Xuke Hu, German Aerospace Center, Germany
+<strong>Xuke Hu<\strong>, German Aerospace Center, Germany, xuke.hu@dlr.de  
 
-Yingjie Hu, University at Buffalo, USA
+<strong>Yingjie Hu<\strong>, University at Buffalo, USA, 
 
-Bernd Resch, University of Salzburg, Austria
+<strong>Bernd Resch<\strong>, University of Salzburg, Austria
 
-Jens Kersten, German Aerospace Center, Germany
+<strong>Jens Kersten<\strong>, German Aerospace Center, Germany
 
-Kristin Stock, Massey University, New Zealand 
+<strong>Kristin Stock<\strong>, Massey University, New Zealand 

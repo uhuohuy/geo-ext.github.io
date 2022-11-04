@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-*Beatrice Alex, Edinburgh University
+* Beatrice Alex, Edinburgh University
 
 Mariona Coll Ardanuy, The Alan Turing Institute
 

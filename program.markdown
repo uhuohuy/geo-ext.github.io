@@ -2,6 +2,7 @@
 layout: page
 title: Program Committee
 permalink: /program/
+nav_order: 2
 ---
 
 * Beatrice Alex, Edinburgh University

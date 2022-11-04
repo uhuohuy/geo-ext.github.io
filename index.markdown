@@ -10,7 +10,7 @@ nav_order: 1
 
 # Geographic Information Extraction from Texts (GeoExT)
 
-## Workshop to be held to be held as part of the 45th European Conference on Information Retrieval (ECIR 2023)  
+## Workshop to be held as part of the 45th European Conference on Information Retrieval (ECIR 2023)  
 
 
 In this workshop, we aim to foster the discussion and exchange on recent advances in geographic information extraction from unstructured texts. Special 

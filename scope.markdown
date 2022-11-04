@@ -7,32 +7,32 @@ nav_order: 2
 
 The workshop has an interest in different aspects of of geographic information extraction from texts. Our general topics of interest are related, but not limited, to the following:
  
-Document geocoding
+* Document geocoding
 
-Toponym recognition and resolution
+* Toponym recognition and resolution
 
-Method generalizability (regions, languages, data sources)
+* Method generalizability (regions, languages, data sources)
 
-Multi-source data (e.g., text and image) fusion for method improvement
+* Multi-source data (e.g., text and image) fusion for method improvement
 
-Location description extraction and resolution
+* Location description extraction and resolution
 
-Relation extraction and disambiguation
+* Relation extraction and disambiguation
 
-Social media posts geolocation at hyper-local levels
+* Social media posts geolocation at hyper-local levels
 
-Fine-grained toponym resolving 
+* Fine-grained toponym resolving 
 
-Historical toponyms resolving
+* Historical toponyms resolving
 
-Historical archives geovisualization
+* Historical archives geovisualization
 
-Gazetteer enrichment for resolving ancient and varying toponyms 
+* Gazetteer enrichment for resolving ancient and varying toponyms 
 
-Platforms and metrics for approach evaluation
+* Platforms and metrics for approach evaluation
 
-Framework or service to support solution customizing
+* Framework or service to support solution customizing
 
-Location privacy protection for online users
+* Location privacy protection for online users
 
-Standards or unified interface for system development
+* Standards or unified interface for system development

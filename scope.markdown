@@ -2,6 +2,7 @@
 layout: page
 title: Aims, Scope and Topics
 permalink: /aims/
+nav_order: 2
 ---
 
 Vast and ever-increasing amounts of semi- and unstructured text data, like social media posts, website texts, historical archives, 

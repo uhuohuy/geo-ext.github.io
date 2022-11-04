@@ -17,5 +17,5 @@ nav_order: 4
 <strong>Kristin Stock</strong>, Massey University, New Zealand, 
 
 # Contact
-For general enquiries on the workshop, please send an email to xuke.hu@dlr.de, yhu42@buffalo.edu, Bernd.Resch@plus.ac.at, K.Stock@massey.ac.nz, or Jens.Kersten@dlr.de 
+For general enquiries on the workshop, please send an email to [xuke.hu@dlr.de](xuke.hu@dlr.de), yhu42@buffalo.edu, Bernd.Resch@plus.ac.at, K.Stock@massey.ac.nz, or Jens.Kersten@dlr.de 
 

@@ -9,10 +9,15 @@ nav_order: 3
 <a href="url">
  <img src="figure/119.jpg"  ></a>
  
- [Prof.Dr.Ross Purves](https://www.geo.uzh.ch/~rsp/)
- 
- University of Zurich (Switzerland)
 </p>
+<p align="center">
+
+ [Prof.Dr.Ross Purves](https://www.geo.uzh.ch/~rsp/)
+ </p>
+<p align="center">
+
+ University of Zurich (Switzerland)
+ </p>
 
 
 <strong> Title:</strong>

@@ -3,7 +3,7 @@ layout: page
 title: Program
 permalink: /program/
 ---
- Markup : * Beatrice Alex, Edinburgh University
+* Beatrice Alex, Edinburgh University
 
           * Mariona Coll Ardanuy, The Alan Turing Institute
 

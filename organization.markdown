@@ -6,15 +6,15 @@ nav_order: 2
 ---
 # Organizers
 
-<strong>Xuke Hu</strong>, German Aerospace Center, Germany
+[Xuke Hu](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12207/21398_read-37880/sortby-lastname/), German Aerospace Center, Germany
 
-<strong>Yingjie Hu</strong>, University at Buffalo, USA
+[Yingjie Hu](https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, USA
 
-<strong>Bernd Resch</strong>, University of Salzburg, Austria
+[Bernd Resch](https://www.plus.ac.at/geoinformatik/fachbereich/team/resch/), University of Salzburg, Austria
 
-<strong>Jens Kersten</strong>, German Aerospace Center, Germany
+[Jens Kersten](https://www.dlr.de/dw/desktopdefault.aspx/tabid-12207/21398_read-37046/sortby-lastname/), German Aerospace Center, Germany
 
-<strong>Kristin Stock</strong>, Massey University, New Zealand
+[Kristin Stock](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=993350), Massey University, New Zealand
 
 # Contact
 For general enquiries on the workshop, please send an email to [xuke.hu@dlr.de](mailto:xuke.hu@dlr.de), [yhu42@buffalo.edu](mailto:yhu42@buffalo.edu), [Bernd.Resch@plus.ac.at](mailto:Bernd.Resch@plus.ac.at), [Jens.Kersten@dlr.de](mailto:Jens.Kersten@dlr.de), or [K.Stock@massey.ac.nz](mailto:K.Stock@massey.ac.nz)

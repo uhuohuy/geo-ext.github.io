@@ -13,7 +13,7 @@ nav_order: 3
 
  <p align="center">
 <a href="https://www.geo.uzh.ch/~rsp/">
- Prof.Dr.Ross Purves
+ Prof. Dr. Ross Purves
 </p>
 <p align="center">
 

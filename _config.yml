@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: GeoExT ECIR'23 Workshop
-email: geoext@dlr.de
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the official homepage for the first workshop on 
-  geographic information extraction from texts (GeoExT).
+#email: geoext@dlr.de
+#description: >- # this means to ignore newlines until "baseurl:"
+#  This is the official homepage for the first workshop on 
+#  geographic information extraction from texts (GeoExT).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  geo-ext
+# github_username:  geo-ext
 
 # Build settings
 #remote_theme: pages-themes/leap-day@v0.2.0

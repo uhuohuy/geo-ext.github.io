@@ -5,7 +5,7 @@
 
 layout: home
 title: About
-nav_order: 1
+nav_order: 0
 ---
 
 # First International Workshop on Geographic Information Extraction from Texts (GeoExT)

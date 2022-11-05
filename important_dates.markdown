@@ -2,7 +2,7 @@
 layout: page
 title: Dates
 permalink: /impotant_dates/
-nav_order: 6
+nav_order: 7
 ---
 
 <strong>Submission deadline</strong>: February 5th, 2023

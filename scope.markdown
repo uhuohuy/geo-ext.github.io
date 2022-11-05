@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scope and Topics
+title: Scope
 permalink: /aims/
 nav_order: 4
 ---

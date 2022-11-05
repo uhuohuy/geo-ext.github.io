@@ -9,4 +9,11 @@ After adding pages and content to the page, the site should be [tested locally](
 
 Used theme: [just-the-docs](https://jekyllthemes.io/theme/just-the-docs).
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
+
 

@@ -4,6 +4,7 @@ title: Dates
 permalink: /impotant_dates/
 nav_order: 6
 ---
+# Important dates
 
 <strong>Submission deadline</strong>: February 5th, 2023
 

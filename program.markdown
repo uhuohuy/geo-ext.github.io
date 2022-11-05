@@ -4,7 +4,7 @@ title: Committee
 permalink: /program/
 nav_order: 7
 ---
-# Committee members
+# Program Committee
 
 * <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 

@@ -31,7 +31,8 @@ github_username:  geo-ext
 # Build settings
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 # - jekyll-feed
 
  # remote_theme: NrdyBhu1/atlas-jekyll-theme

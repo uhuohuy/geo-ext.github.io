@@ -4,6 +4,10 @@ title: Scope
 permalink: /aims/
 nav_order: 4
 ---
+
+# Workshop Topics 
+
+
 The workshop welcomes contributions in all topics related to geographic information extraction from texts, focused (but not limited) to:
 
 * Document geocoding

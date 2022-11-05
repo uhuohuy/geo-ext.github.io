@@ -22,7 +22,7 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * Relation extraction and disambiguation
 
-* Social media posts geolocation at hyper-local levels
+* Tweets geolocating at hyper-local levels
 
 * Fine-grained toponym resolving 
 
@@ -30,7 +30,7 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * Historical archives geovisualization
 
-* Gazetteer enrichment for resolving ancient and varying toponyms 
+* Gazetteer enrichment for resolving ancient and envolving toponyms 
 
 * Platforms and metrics for approach evaluation
 

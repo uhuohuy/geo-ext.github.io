@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imortant Dates
+title: Dates
 permalink: /impotant_dates/
 nav_order: 6
 ---

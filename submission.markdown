@@ -7,13 +7,13 @@ nav_order: 5
 
 Intended to support discussions and dialogues, we would like to encourage the following types of submissions:
 
-* Full paper (oral presentation): up to 6 pages
+* **Full paper (oral presentation)**: up to 6 pages
 
-* Short paper (oral presentation): up to 4 pages
+* **Short paper (oral presentation)**: up to 4 pages
 
-* Short paper (poster presentation): up to 3 pages
+* **Short paper (poster presentation)**: up to 3 pages
 
-* Demonstration paper (hands-on demo): up to 3 pages 
+* **Demonstration paper (hands-on demo)**: up to 3 pages 
 
 <p align="justify"> The references are not counted in the page limit for all the submission types. All manuscripts are expected to address the topics related to geographic information extraction from texts and should be original and unpublished contributions. Pre-prints submitted to ArXiv are eligible. Manuscripts should follow the [CEUR-ART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) single-column style and be submitted as PDF files to EasyChair.</p>
 

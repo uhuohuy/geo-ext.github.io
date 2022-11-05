@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission and Attending
+title: Submission
 permalink: /submission/
 nav_order: 5
 ---

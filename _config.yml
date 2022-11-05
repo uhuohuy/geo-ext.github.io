@@ -29,7 +29,7 @@ url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for yo
 github_username:  geo-ext
 
 # Build settings
-remote_theme: mattvh/jekyllthemes
+remote_theme: NrdyBhu1/atlas-jekyll-theme
 #just-the-docs/just-the-docs
 #theme: minima
 plugins:

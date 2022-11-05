@@ -5,6 +5,8 @@ permalink: /submission/
 nav_order: 5
 ---
 
+# Call for papers 
+
 Intended to support discussions and dialogues, we would like to encourage the following types of submissions:
 
 * **Full paper (oral presentation)**: up to 6 pages

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dates
-permalink: /impotant_dates/
+permalink: /z_impotant_dates/
 nav_order: 6
 ---
 

@@ -4,7 +4,6 @@
 # we may also add a nice image here
 
 layout: home
-title: About
 nav_order: 1
 ---
 

@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # Organizers
 
-[Xuke Hu](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12207/21398_read-37880/sortby-lastname/), German Aerospace Center, Germany
+[Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany
 
 [Yingjie Hu](https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, USA
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organization
-permalink: /02_organization/
+permalink: /j_organization/
 nav_order: 2
 ---
 # Organizers

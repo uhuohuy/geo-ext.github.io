@@ -4,9 +4,8 @@ title: Scope and Topics
 permalink: /aims/
 nav_order: 4
 ---
+The workshop welcomes contributions in all topics related to geographic information extraction from texts, focused (but not limited) to:
 
-The workshop's general topics of interest are related, but not limited, to the following:
- 
 * Document geocoding
 
 * Toponym recognition and resolution

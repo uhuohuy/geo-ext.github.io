@@ -17,4 +17,4 @@ Intended to support discussions and dialogues, we would like to encourage the fo
 
 The references are not counted in the page limit for all the submission types. All manuscripts are expected to address the topics related to geographic information extraction from texts and should be original and unpublished contributions. Pre-prints submitted to ArXiv are eligible. Manuscripts should follow the [CEUR-ART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) single-column style and be submitted as PDF files to EasyChair.
 
-Each manuscript will be peer-reviewed by at least two program committee members, following the single-blind paradigm. Accepted papers will be included in an open-access proceedings volume of CEUR Workshop Proceedings (indexed by both Scopus and DBLP).
+Each manuscript will be peer-reviewed by at least two program committee members, following the single-blind paradigm. Accepted papers will be included in an open-access proceedings volume of **CEUR Workshop Proceedings**, indexed by both **Scopus** and **DBLP**.

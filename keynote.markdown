@@ -11,7 +11,7 @@ nav_order: 3
 </p>
 
  <p align="center">
-<a href="https://www.geo.uzh.ch/~rs/">
+<a href="https://www.geo.uzh.ch/~rsp/">
  Prof. Dr. Ross Purves </a>
 </p>
   
@@ -22,8 +22,8 @@ University of Zurich (Switzerland)
  
 
 
-<strong> Title:</strong>
+<strong> Title:</strong> tba
 
-<strong> Abstract: </strong>
+<strong> Abstract: </strong> tba
 
-<strong> Short Bio: </strong>
+<strong> Short Bio: </strong> tba

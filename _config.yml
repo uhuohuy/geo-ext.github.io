@@ -40,6 +40,8 @@ url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for yo
 
 #remote_theme: just-the-docs/just-the-docs
 theme: minima
+minima:
+    skin: solarized
 #theme: Midnight
 plugins:
   - jekyll-feed

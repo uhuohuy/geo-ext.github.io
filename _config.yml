@@ -19,11 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: GeoExT ECIR'23 Workshop
+subtitle: to be held at the 45th European Conference on Information Retrieval (ECIR 2023) in Dublin, April 2, 2023 (with support for remote attendance)
 #email: geoext@dlr.de
 #description: >- # this means to ignore newlines until "baseurl:"
 #  This is the official homepage for the first workshop on 
 #  geographic information extraction from texts (GeoExT).
 baseurl: "" # the subpath of your site, e.g. /blog
+logo: "/assets/images/logo.png"
 url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 # github_username:  geo-ext

@@ -5,7 +5,6 @@ permalink: /submission/
 nav_order: 5
 ---
 
-# Call for Papers 
 
 Intended to support discussions and dialogues, we would like to encourage the following types of submissions:
 

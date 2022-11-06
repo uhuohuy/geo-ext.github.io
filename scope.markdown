@@ -25,9 +25,9 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * <span style="font-size:20px;"> Fine-grained toponym resolving 
 
-* <span style="font-size:20px;"> Historical toponyms resolving
+* <span style="font-size:20px;"> Historical toponym resolving
 
-* <span style="font-size:20px;"> Historical archives geovisualization
+* <span style="font-size:20px;"> Historical archive geovisualization
 
 * <span style="font-size:20px;"> Gazetteer enrichment for resolving ancient and envolving toponyms 
 
@@ -38,3 +38,6 @@ The workshop welcomes contributions in all topics related to geographic informat
  * <span style="font-size:20px;"> Location privacy protection for online users
 
  * <span style="font-size:20px;"> Standards or unified interfaces for system development
+  
+  * <span style="font-size:20px;"> Novel applications of geographic information in texts
+

@@ -5,38 +5,38 @@ permalink: /program/
 nav_order: 7
 ---
 
-* <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
+* <span style="font-size:20px;"> <Strong>Beatrice Alex</Strong>, Edinburgh University, UK
 
-* <Strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
+* <span style="font-size:20px;"><Strong>Mariona Coll Ardanuy</Strong>, The Alan Turing Institute, UK
 
-* <Strong>Andrea Ballatore</Strong>, King’s College London, UK
+* <span style="font-size:20px;"><Strong>Andrea Ballatore</Strong>, King’s College London, UK
 
-* <Strong>Tao Cheng</Strong>, University College London, UK
+* <span style="font-size:20px;"><Strong>Tao Cheng</Strong>, University College London, UK
 
-* <Strong>Hongchao Fan</Strong>, Norwegian University of Science and Technology, Norway
+* <span style="font-size:20px;"><Strong>Hongchao Fan</Strong>, Norwegian University of Science and Technology, Norway
 
-* <Strong>Matthias Hagen</Strong>, FSU Jena, Germany
+* <span style="font-size:20px;"><Strong>Matthias Hagen</Strong>, FSU Jena, Germany
           
-* <Strong>Christopher B. Jones</Strong>, Cardiff University, UK
+* <span style="font-size:20px;"><Strong>Christopher B. Jones</Strong>, Cardiff University, UK
 
-* <Strong>Nicolás José Fernández Martínez</Strong>, Universidad Católica San Antonio de Murcia, Spain
+* <span style="font-size:20px;"><Strong>Nicolás José Fernández Martínez</Strong>, Universidad Católica San Antonio de Murcia, Spain
 
-* <Strong>Bruno Martins</Strong>, University of Lisbon, Portugal
+* <span style="font-size:20px;"><Strong>Bruno Martins</Strong>, University of Lisbon, Portugal
 
-* <Strong>Katherine McDonough</Strong>, The Alan Turing Institute, UK
+* <span style="font-size:20px;"><Strong>Katherine McDonough</Strong>, The Alan Turing Institute, UK
 
-* <Strong>Ludovic Moncla</Strong>, INSA Lyon, France
+* <span style="font-size:20px;"><Strong>Ludovic Moncla</Strong>, INSA Lyon, France
 
 * <Strong>Ross Purves</Strong>, University of Zurich, Switzerland
 
-* <Strong>Yeran Sun</Strong>, University of Lincoln, UK
+* <span style="font-size:20px;"><Strong>Yeran Sun</Strong>, University of Lincoln, UK
 
-* <Strong>Thora Tenbrink</Strong>, Bangor University, UK
+* <span style="font-size:20px;"><Strong>Thora Tenbrink</Strong>, Bangor University, UK
 
-* <Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
+* <span style="font-size:20px;"><Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
 
-* <Strong>Grant McKenzie</Strong>, McGill University, Canada
+* <span style="font-size:20px;"><Strong>Grant McKenzie</Strong>, McGill University, Canada
 
-* <Strong>Qinjun Qiu</Strong>, China University of Geosciences (Wuhan), China
+* <span style="font-size:20px;"><Strong>Qinjun Qiu</Strong>, China University of Geosciences (Wuhan), China
 
-* <Strong>Stephan Winter</Strong>, University of Melbourne, Australia
+* <span style="font-size:20px;"><Strong>Stephan Winter</Strong>, University of Melbourne, Australia

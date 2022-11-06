@@ -26,7 +26,7 @@ subtitle: to be held at the 45th European Conference on Information Retrieval (E
 #  geographic information extraction from texts (GeoExT).
 baseurl: "" # the subpath of your site, e.g. /blog
 logo: "/figure/isprs_logo.jpg"
-banner: "/figure/bann.jpg"
+banner: "figure/bann.jpg"
 url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 # github_username:  geo-ext

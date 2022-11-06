@@ -12,18 +12,18 @@ nav_order: 3
 
  <p align="center">
 <a href="https://www.geo.uzh.ch/~rsp/">
- Prof. Dr. Ross Purves </a>
+ <span style="font-size:20px;"> Prof. Dr. Ross Purves </a>
 </p>
   
  <p align="center">
-University of Zurich (Switzerland) 
+<span style="font-size:20px;"> University of Zurich (Switzerland) 
 </p>
 
  
 
 
-<strong> Title:</strong> tba
+<span style="font-size:20px;"><strong> Title:</strong> tba
 
-<strong> Abstract: </strong> tba
+<span style="font-size:20px;"><strong> Abstract: </strong> tba
 
-<strong> Short Bio: </strong> tba
+<span style="font-size:20px;"><strong> Short Bio: </strong> tba

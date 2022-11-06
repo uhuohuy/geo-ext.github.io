@@ -27,7 +27,7 @@ nav_order: 7
 
 * <span style="font-size:20px;"><Strong>Ludovic Moncla</Strong>, INSA Lyon, France
 
-* <Strong>Ross Purves</Strong>, University of Zurich, Switzerland
+* <span style="font-size:20px;"> <Strong>Ross Purves</Strong>, University of Zurich, Switzerland
 
 * <span style="font-size:20px;"><Strong>Yeran Sun</Strong>, University of Lincoln, UK
 

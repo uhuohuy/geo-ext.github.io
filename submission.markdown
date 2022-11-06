@@ -8,7 +8,7 @@ nav_order: 5
 
  <span style="font-size:20px;"> Intended to support discussions and dialogues, we would like to encourage the following types of submissions:
 
-<span style="font-size:20px;">* **Full paper (oral presentation)**: up to 6 pages
+* <span style="font-size:20px;">**Full paper (oral presentation)**: up to 6 pages
 
 <span style="font-size:20px;">* **Short paper (oral presentation)**: up to 4 pages
 

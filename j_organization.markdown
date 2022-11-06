@@ -4,8 +4,7 @@ title: Organization
 permalink: /j_organization/
 nav_order: 2
 ---
-<span style="font-size:20px;"> 
-[Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany </span>
+<span style="font-size:20px;">  [Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany </span>
 
 <span style="font-size:20px;"> [Yingjie Hu](https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, USA</span>
 

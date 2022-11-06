@@ -21,5 +21,5 @@ nav_order: 2
 [Kristin Stock](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=993350), Massey University, New Zealand</span>
 
 \
-\
-For general enquiries on the workshop, please send an email to [Xuke.Hu@dlr.de](mailto:Xuke.Hu@dlr.de)
+
+<span style="font-size:18px;">  For general enquiries on the workshop, please send an email to [Xuke.Hu@dlr.de](mailto:Xuke.Hu@dlr.de)

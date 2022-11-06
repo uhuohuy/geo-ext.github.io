@@ -20,7 +20,8 @@ nav_order: 2
 <span style="font-size:20px;"> 
 [Kristin Stock](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=993350), Massey University, New Zealand</span>
 
-
+\
+\
 <span style="font-size:20px;"> 
-For general enquiries on the workshop, please send an email to [Xuke.Hu@dlr.de](mailto:Xuke.Hu@dlr.de), [yhu42@buffalo.edu](mailto:yhu42@buffalo.edu), [Bernd.Resch@plus.ac.at](mailto:Bernd.Resch@plus.ac.at), [Jens.Kersten@dlr.de](mailto:Jens.Kersten@dlr.de), or [K.Stock@massey.ac.nz](mailto:K.Stock@massey.ac.nz)
+For general enquiries on the workshop, please send an email to [Xuke.Hu@dlr.de](mailto:Xuke.Hu@dlr.de)
 </span>

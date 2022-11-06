@@ -4,7 +4,6 @@ title: Organization
 permalink: /j_organization/
 nav_order: 2
 ---
-# Organizers
 
 [Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany
 
@@ -16,6 +15,5 @@ nav_order: 2
 
 [Kristin Stock](https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=993350), Massey University, New Zealand
 
-# Contact
 For general enquiries on the workshop, please send an email to [Xuke.Hu@dlr.de](mailto:Xuke.Hu@dlr.de), [yhu42@buffalo.edu](mailto:yhu42@buffalo.edu), [Bernd.Resch@plus.ac.at](mailto:Bernd.Resch@plus.ac.at), [Jens.Kersten@dlr.de](mailto:Jens.Kersten@dlr.de), or [K.Stock@massey.ac.nz](mailto:K.Stock@massey.ac.nz)
 

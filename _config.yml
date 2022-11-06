@@ -25,7 +25,7 @@ subtitle: to be held at the 45th European Conference on Information Retrieval (E
 #  This is the official homepage for the first workshop on 
 #  geographic information extraction from texts (GeoExT).
 baseurl: "" # the subpath of your site, e.g. /blog
-banner: banner14.jpg
+#banner: banner14.jpg
 url: "https://geo-ext.github.io/ecir2023/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 # github_username:  geo-ext

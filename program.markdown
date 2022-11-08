@@ -32,6 +32,8 @@ nav_order: 7
 * <span style="font-size:20px;"><Strong>Yeran Sun</Strong>, University of Lincoln, UK
 
 * <span style="font-size:20px;"><Strong>Thora Tenbrink</Strong>, Bangor University, UK
+ 
+* <span style="font-size:20px;"><Strong>Diedrich Wolter</Strong>, University of Bamberg, Germany
 
 * <span style="font-size:20px;"><Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
 

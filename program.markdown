@@ -39,6 +39,8 @@ nav_order: 7
 
 * <span style="font-size:20px;"><Strong>Benjamin Adams</Strong>, University of Canterbury, New Zealand
           
+* <span style="font-size:20px;"><Strong>Muhammad Imran</Strong>, Qatar Computing Research Institute, Qatar
+          
 * <span style="font-size:20px;"><Strong>Grant McKenzie</Strong>, McGill University, Canada
 
 * <span style="font-size:20px;"><Strong>Qinjun Qiu</Strong>, China University of Geosciences (Wuhan), China

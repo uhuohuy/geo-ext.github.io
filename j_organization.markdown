@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organization
+title: Organizing Committee
 permalink: /j_organization/
 nav_order: 2
 ---

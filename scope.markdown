@@ -29,7 +29,7 @@ The workshop welcomes contributions in all topics related to geographic informat
 
 * <span style="font-size:20px;"> Historical archive geovisualization
 
-* <span style="font-size:20px;"> Gazetteer enrichment for resolving ancient and envolving toponyms 
+* <span style="font-size:20px;"> Gazetteer enrichment for resolving ancient and evolving toponyms 
 
 * <span style="font-size:20px;"> Dataset annotation for method training and evaluation
 

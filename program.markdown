@@ -19,7 +19,7 @@ nav_order: 7
           
 * <span style="font-size:20px;"><Strong>Christopher B. Jones</Strong>, Cardiff University, UK
 
-* <span style="font-size:20px;"><Strong>Nicolás José Fernández Martínez</Strong>, Universidad Católica San Antonio de Murcia, Spain
+* <span style="font-size:20px;"><Strong>Nicolás José Fernández Martínez</Strong>, University of Jaén, Spain
 
 * <span style="font-size:20px;"><Strong>Bruno Martins</Strong>, University of Lisbon, Portugal
 

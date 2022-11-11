@@ -38,7 +38,9 @@ nav_order: 7
 * <span style="font-size:20px;"><Strong>Zhiyong Zhou</Strong>, University of Zurich, Switzerland
 
 * <span style="font-size:20px;"><Strong>Benjamin Adams</Strong>, University of Canterbury, New Zealand
-          
+
+* <span style="font-size:20px;"><Strong>Guqiang Gu</Strong>, Chongqing University, China
+
 * <span style="font-size:20px;"><Strong>Muhammad Imran</Strong>, Qatar Computing Research Institute, Qatar
           
 * <span style="font-size:20px;"><Strong>Morteza Karimzadeh</Strong>, University of Colorado Boulder, US

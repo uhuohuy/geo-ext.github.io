@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Key Dates
-permalink: /key_dates/
+permalink: /important_dates/
 nav_order: 6
 ---
 

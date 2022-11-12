@@ -7,7 +7,7 @@ nav_order: 3
 
 <p align="center">
 <a>
- <img src="{{site.baseurl}}/1191.jpg"  ></a>
+ <img src="{{site.baseurl}}/figure/ross_lbs.png"  ></a>
 </p>
 
  <p align="center">
